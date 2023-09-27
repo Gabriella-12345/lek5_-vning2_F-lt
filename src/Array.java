@@ -8,5 +8,7 @@ public class App {
         fält1[1] = b;
         fält1[2] = c;
         fält1[3] = d;
+
+        
     }
 }
